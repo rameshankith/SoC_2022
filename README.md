@@ -1,5 +1,5 @@
 # Moodify
-Till now (Check point-1) we did the reading part that is required for the project, below I have attached the weekly completed reading material links and along with these I have watched some youtube tutorials based on the reading material of that particular week
+Till Check point-1 we did the reading part that is required for the project, below I have attached the weekly completed reading material links and along with these I have watched some youtube tutorials based on the reading material of that particular week. From Checkpoint 1 to 2 I learned about reddit api and worked on preprocessing and building a pipeline
 
 # Week 1
 
@@ -27,5 +27,15 @@ Till now (Check point-1) we did the reading part that is required for the projec
 * https://developers.facebook.com/blog/post/2018/01/30/instagram-graph-api-updates/
 * https://developers.facebook.com/docs/instagram-basic-display-api/
 
+# Week 5
+
+* https://github.com/ClarityCoders/RedditImageScraper
+* https://praw.readthedocs.io/en/stable/
+
+# Week 6
+Searching for a text and image dataset with emotions as there labels. Learning and working on preprocessing of the dataset
+
+# Week 7
+Building a basic pipeline of the model without worrying about model and accuracy and other metrics
 
 
